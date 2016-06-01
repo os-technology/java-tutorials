@@ -1,0 +1,6 @@
+Main-Class: com.eccl.product.liujian.tutorials.regex.NumberDemo
+Manifest-Version: 1.0
+Built-By: LiuJian
+Build-Jdk: 1.7.0_45
+Created-By: Maven Integration for Eclipse
+
